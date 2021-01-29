@@ -15,4 +15,8 @@
   <p>HomeScreen android</p>
   <img height="600" src="https://i.ibb.co/MVXvCc7/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-01-02-at-15-31-42.png" />
    </div>
+   
+   <div>
+  <img height="600" src="https://media.giphy.com/media/nOlhAtLWXflkSRxEH0/giphy.gif" />
+  </div>
    </div>
